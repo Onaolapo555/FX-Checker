@@ -10,7 +10,7 @@ Live currency converter with rate history, multi-currency compare, favorites, an
 
 ## What it does
 
-A single-page暗-first app to check, convert, and track foreign exchange rates without an account.
+A single-page-first app to check, convert, and track foreign exchange rates without an account.
 
 **Core flow:** Enter amount → pick SEND / RECEIVE currencies → see live rate `1 USD = 0.8547 EUR` update as you type → swap, favorite, or log the conversion.
 
